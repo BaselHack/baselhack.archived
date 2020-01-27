@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="1161.6666"
+     inkscape:cx="724.66661"
      inkscape:cy="222.69165"
      inkscape:document-units="cm"
      inkscape:current-layer="g26"
@@ -38,8 +38,8 @@
      inkscape:showpageshadow="true"
      inkscape:window-width="1718"
      inkscape:window-height="1368"
-     inkscape:window-x="1713"
-     inkscape:window-y="0"
+     inkscape:window-x="-9"
+     inkscape:window-y="40"
      inkscape:window-maximized="0"
      units="mm" />
   <metadata
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,24 +89,24 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.8391732px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.01311208"
            id="tspan1016"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="tspan1034">08:30</tspan> Check-in </tspan><tspan
+   id="tspan1034">09:30</tspan> Check-in </tspan><tspan
            sodipodi:role="line"
            x="2.6722028"
            y="315.03299"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.8391732px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.01311208"
            id="tspan1020"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="tspan1036">09:00</tspan> Opening, Welcome and Rules <tspan
+   id="tspan1036">10:00</tspan> Opening, Welcome and Rules <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="tspan1038"></tspan></tspan><tspan
+   id="tspan1038" /></tspan><tspan
            sodipodi:role="line"
            x="2.6722028"
            y="316.08194"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.8391732px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.01311208"
            id="tspan1054"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan1056">09:15</tspan> Idea <tspan
-   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1056">10:15</tspan> Idea <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan1060">Pitching</tspan> &amp; Team Building </tspan><tspan
            sodipodi:role="line"
            x="2.6722028"
@@ -114,7 +114,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.8391732px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.01311208"
            id="tspan1022"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
-   id="tspan1040">10:00</tspan> Hands on: Start Coding </tspan><tspan
+   id="tspan1040">11:00</tspan> Hands on: Start Coding </tspan><tspan
            sodipodi:role="line"
            x="2.6722028"
            y="318.1799"
